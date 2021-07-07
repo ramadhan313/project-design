@@ -1,0 +1,34 @@
+.top-page ul li{
+    list-style-type: none;
+    background-color: red;
+    color: black;
+    border-right:2px solid white;
+    font-weight: 900;
+    padding: 5px 10px;
+    float: right;
+    text-decoration: underline;
+    text-emphasis-color: black;
+
+}
+.top-page li{
+    color: black;
+}
+
+.border{
+    background:red;
+    height: 5px!important;
+    width: 20px;
+    margin: 10px 0px;
+}
+.achievementsection p{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    
+}
+.achievementsection h1{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    font-weight: bolder;
+}
