@@ -32,3 +32,157 @@
     color: crimson;
     font-weight: bolder;
 }
+.objective card-body ol li{
+    list-style-type: decimal;
+    background-color: crimson;
+}
+.card ol li{
+font-weight: 900;
+font-family: 'Times New Roman', Times, serif;
+}
+.carousel .bannerimage{
+    height: 40vh;
+    width: 50%;
+}
+.top-figure img{
+    height: 100%;
+    width: 100%;
+    border: crimson;
+    border-radius: 50%;
+}
+.top-figure h2{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: crimson;
+}
+.top-figure p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+.more-section{
+    background-image: url(../images/black.jpg);
+}
+.more-section h1{
+color: orange;
+}
+.more-section h2{
+    color: orange;
+}
+.more-section h5{
+    color: black;
+}
+.more-section p{
+    color: crimson;
+}
+.members h1{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.members h2{
+    color: orange;
+     font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+}
+.top-figure p{
+    background-color:orange;
+    border: coral;
+    border-radius: 50%;
+}
+
+.finall h1{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.finall{
+    margin-top: 20px;
+    background-color: lightgray;
+}
+.finall h2{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+.more-section{
+    margin-top: 20px;
+}
+.members{
+    background-color: lightblue;
+}
+.articles{
+    background-color: burlywood;
+    margin-top: 20px;
+}
+.articles h1{
+    color: blue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.articles h2{
+    color: blue;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.articles p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.articles-two p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.articles-two{
+    background-color: darksalmon;
+    margin-top: 20px;
+}
+
+.articles-two h2{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:22 ;
+}
+.notes h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.notes h2{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.notes p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.notes h3{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.notes img:hover{
+    transform: scale(1.5);
+    transition: 0.7s linear;
+    border-radius: 50%;
+
+}
+.articles .card:hover{
+    box-shadow:0 0 10px red;
+    cursor: progress;
+    transition: 0.7s linear;
+    margin-bottom: 10px;
+
+}
+.articles-two .card:hover{
+    box-shadow:0 0 10px red;
+    cursor: progress;
+    transition: 0.7s linear;
+    margin-bottom: 10px;
+
+}
+
